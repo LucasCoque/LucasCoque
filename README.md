@@ -1,8 +1,8 @@
 Olá! Eu sou Lucas Coque
-<div>
+
   ![LucasCoque's Stats](https://github-readme-stats.vercel.app/api?username=LucasCoque&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
   ![LucasCoque's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoque&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-</div>
+
 <!--
 **LucasCoque/LucasCoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
