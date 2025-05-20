@@ -1,14 +1,5 @@
-### Olá! Eu sou Lucas Coque
-### <img src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg" width="50"> Um pouco  sobre mim...
-```js
-  import Desenvoledor from "Lucas Coque";
-
-  class SobreMim extends Desenvolvedor{
-    nome: "Lucas";
-    area: "Web Development"
-}
-  
-```
+<h2 align="center">Hi 👋! I'm Lucas, a Full-Stack Developer from Brazil 🇧🇷</h2>
+###
 <table>
   <div>
     <td>
@@ -20,16 +11,45 @@
    
   </div>
 </table>
+###
 
-### Estou aprendendo:
-<div style="display: inline_block"><br>
+## 🧠 Programming Languages
+<a href="https://skillicons.dev" align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,rust,js,ts&theme=dark" />
+</a>
 
-  <img alingn=center height="40" widght="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alingn=center height="40" widght="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alingn=center height="40" widght="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />                
-  <img alingn=center height="40" widght="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alingn=center height="40" widght="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+## 💻 Shells and Scripting
+<a href="https://skillicons.dev" align="left">
+  <img src="https://skillicons.dev/icons?i=powershell,bash&theme=dark" />
+</a>
+
+## 🎨 Front-end Development
+<a href="https://skillicons.dev" align="left">
+  <img src="https://skillicons.dev/icons?i=css,html&theme=dark" />
+</a>
+
+## 🛢️ Databases
+<a href="https://skillicons.dev" align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" />
+</a>
+
+## 🛠️ Frameworks and Tools
+<a href="https://skillicons.dev" align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,flask,gtk,docker&theme=dark" />
+</a>
+
+## 🧰 IDEs and Editors
+<a href="https://skillicons.dev" align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim&theme=dark" />
+</a>
+
+## 🖥️ Operating Systems
+<a href="https://skillicons.dev" align="left">
+  <img src="https://skillicons.dev/icons?i=windows,arch,linux&theme=dark" />
+</a>
 
 
-</div><br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TXG0Fk3/TXG0Fk3/output/snake.svg" alt="Snake animation" />
+</div>
   
