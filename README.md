@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋! I'm Lucas, a Full-Stack Developer from Brazil 🇧🇷</h2>
-###
 <table>
   <div>
     <td>
@@ -11,7 +10,6 @@
    
   </div>
 </table>
-###
 
 ## 🧠 Programming Languages
 <a href="https://skillicons.dev" align="left">
@@ -30,17 +28,17 @@
 
 ## 🛢️ Databases
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&theme=dark" />
 </a>
 
 ## 🛠️ Frameworks and Tools
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,flask,gtk,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,git,docker,azure&theme=dark" />
 </a>
 
 ## 🧰 IDEs and Editors
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim,intellij&theme=dark" />
 </a>
 
 ## 🖥️ Operating Systems
