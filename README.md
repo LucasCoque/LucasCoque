@@ -13,7 +13,7 @@
 
 ## 🧠 Programming Languages
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,python,rust,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,py,rust,js&theme=dark" />
 </a>
 
 ## 💻 Shells and Scripting
@@ -23,7 +23,7 @@
 
 ## 🎨 Front-end Development
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=css,html&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css,html,tailwind&theme=dark" />
 </a>
 
 ## 🛢️ Databases
@@ -33,17 +33,17 @@
 
 ## 🛠️ Frameworks and Tools
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,git,docker,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,pytorch,tensorflow,git,rabbitmq,docker,azure&theme=dark" />
 </a>
 
 ## 🧰 IDEs and Editors
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim,intellij&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,neovim,intellij&theme=dark" />
 </a>
 
 ## 🖥️ Operating Systems
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=windows,arch,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,arch,kali&theme=dark" />
 </a>
 
 
@@ -51,3 +51,6 @@
   <img src="https://raw.githubusercontent.com/TXG0Fk3/TXG0Fk3/output/snake.svg" alt="Snake animation" />
 </div>
   
+<div align="center">
+  <img src=https://www.behance.net/gallery/99786133/Mastermind/modules/575837231"/>
+</div>
