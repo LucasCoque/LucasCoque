@@ -23,7 +23,7 @@
 
 ## 🎨 Front-end Development
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=css,html,tailwind,react,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css,html,tailwind&theme=dark" />
 </a>
 
 ## 🛢️ Databases
@@ -33,17 +33,17 @@
 
 ## 🛠️ Frameworks and Tools
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,pytorch,tensorflow,git,rabbitmq,docker,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,pytorch,tensorflow,rabbitmq,docker&theme=dark" />
 </a>
 
 ## 🧰 IDEs and Editors
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,neovim,intellij&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,neovim&theme=dark" />
 </a>
 
 ## 🖥️ Operating Systems
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=windows,arch,kali&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,arch&theme=dark" />
 </a>
 
 
