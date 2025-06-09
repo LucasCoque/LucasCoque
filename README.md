@@ -23,7 +23,7 @@
 
 ## 🎨 Front-end Development
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=css,html,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css,html,tailwind,react,vite&theme=dark" />
 </a>
 
 ## 🛢️ Databases
