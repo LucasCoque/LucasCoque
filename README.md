@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Lucas, a Full-Stack Developer from Brazil 🇧🇷</h2>
+<h2 align="center">Hi 👋! I'm Lucas, a Web Developer from Brazil</h2>
 <table>
   <div>
     <td>
@@ -7,45 +7,33 @@
     <td>
        <img height="180em" widght="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoque&langs_count=10&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
     </td>
-   
   </div>
 </table>
 
 ## 🧠 Programming Languages
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,php,js&theme=dark" />
-</a>
-
-## 💻 Shells and Scripting
-<a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=powershell,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,php,js&theme=dark" />
 </a>
 
 ## 🎨 Front-end Development
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=css,html,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css,html,react,vite&theme=dark" />
 </a>
 
 ## 🛢️ Databases
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" />
 </a>
 
 ## 🛠️ Frameworks and Tools
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=spring,rabbitmq,docker&theme=dark" />
-</a>
-
-## 🧰 IDEs and Editors
-<a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,neovim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,rabbitmq,docker&theme=dark" />
 </a>
 
 ## 🖥️ Operating Systems
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=windows,arch,zorim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,arch&theme=dark" />
 </a>
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TXG0Fk3/TXG0Fk3/output/snake.svg" alt="Snake animation" />
